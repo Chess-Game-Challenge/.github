@@ -10,13 +10,6 @@
       </span>
     </div>
 -->
-  <h4>
-    <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
-    <span> · </span>
-    <a href="https://github.com/Chess-Game-Challenge/Code/tree/develop">Código</a>
-    <span> · </span>
-    <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
-  </h4>
   <p>Membros</p>
   <table>
     <tr>
@@ -79,6 +72,13 @@
                 </a>  
             </td>
       </table>
+      <h4>
+        <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
+        <span> · </span>
+        <a href="https://github.com/Chess-Game-Challenge/Code/tree/develop">Código</a>
+        <span> · </span>
+        <a href="https://wokwi.com/projects/406405257341848577">Circuito</a>
+      </h4>
 </div>
 
 # Visão Geral
