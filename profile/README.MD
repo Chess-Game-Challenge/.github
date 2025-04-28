@@ -72,6 +72,7 @@
                 </a>  
             </td>
       </table>
+      &nbsp
       <h4>
         <a href="https://docs.google.com/presentation/d/1VIV1RzR2Ix15h-qzxkjWqXIEae58qMObAb_RhvPVKN8/edit?usp=sharing">Apresentação</a>
         <span> · </span>
