@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chess-game-challenge.github.io/chess-game-assets/assets/BannerPrincipal.png" alt="logo" width="100%" height="auto" />
+  <img src="https://Chess-Game-Challenge.github.io/assets/BannerPrincipal.png" alt="logo" width="100%" height="auto" />
 
   &nbsp;
   <p>Membros</p>
